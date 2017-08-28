@@ -7,10 +7,10 @@ This was built using reactjs with the help of google's book api .
 
 
 Clone the repository with
-# $ git clone  https://github.com/SoeRatch/portfolio-react.git
+# $ git clone https://github.com/SoeRatch/book-hunt-with-react.git
 
 cd into the directory with
- # $ cd portfolio-react
+ # $ cd book-hunt-with-react
  
  # $ npm init
  to set up your package.json
