@@ -30,6 +30,6 @@
     "react-bootstrap": "^0.31.2",
     "react-dom": "^15.6.1",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.7.1"
+    "webpack-dev-server": "^3.1.14"
   }
 }
